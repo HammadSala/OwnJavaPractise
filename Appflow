@@ -1,0 +1,25 @@
+Flow Plan:
+
+Ask user of his choice
+	check if it is 0 for exit
+		YES=>Display Good Bye
+		Exit
+	If not
+		Call the picked function
+			Inside function, Get the Values
+			Perform logic
+			Call back user choice
+			
+			
+User Class
+	choice
+	value
+	function
+	
+===============
+To tune more.
+Printing commands and beautify it
+Commenting section
+Varaiable namin standard
+best wayt to get set for object
+Intentdation
